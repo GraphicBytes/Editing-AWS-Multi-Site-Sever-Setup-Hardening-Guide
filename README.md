@@ -5,7 +5,7 @@
 - [Part Four – Optimisation](#markdown-header-part-four-optimisation)
 - [Why no Nginx?](#markdown-header-why-no-nginx)
 
-_Last Update: **Feb 2022** - Review after: **July 2022**_
+_Last Update: **Feb 2022** 
 
 In this guide we are going to set up a server to host multiple websites running Ubuntu 20.04 LTS. We will be installing the tools needed to host, secure and isolate multiple websites on one server and covering key performance configurations. 
 
